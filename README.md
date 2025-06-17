@@ -1,12 +1,30 @@
-# React + Vite
+# 🧠 React.js Basics: 100 Coding & 100 Theory Questions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**React.js Basics Series**! This repository is designed to understand  React through **100 coding question answer** and **100 theory question answer**. 
 
-Currently, two official plugins are available:
+## 📘 Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✅ 100 React Basic Theory Questions
+- Covering JSX, Components, Props, State, Events, Lifecycle Methods, Hooks (intro), and more.
+- Each question comes with a concise answer and examples where applicable.
 
-## Expanding the ESLint configuration
+### 💻 100 React Basic Coding Problems
+  - Simple component rendering
+  - Passing and receiving props
+  - Managing state with hooks
+  - Basic event handling
+  - Conditional rendering
+  - Simple forms and inputs
+  - Mini-projects like a counter, to-do list, toggle button, etc.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🧑‍💻 How to Use
+1. Clone the repository
+ - git clone https://github.com/utpanna-pradhan/React-Basic_coding_and_theory_practice
+ - cd React-Basic_coding_and_theory_practice
+   
+2. Install dependencies
+ - npm install
+   
+3. Start the development server
+ - npm start
